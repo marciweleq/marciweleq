@@ -1,6 +1,5 @@
 ### Hi there 👋 I am Marcel
 
-- 🖊 My main skills: Unity, C# programming, UI Design
-- 💬 Reach me on Discord! marciweleq#6277
-- <a href="http://bit.ly/marciweleqdev">📷 My portfolio</a> 
+- 🖊 My main skills: C# programming, Unity, WinUI 3, UI Design
+- 💬 Reach me on Discord! marciweleq
 - <a href="mailto:marciweleqyt@gmail.com">📧 Mail me!</a> 
